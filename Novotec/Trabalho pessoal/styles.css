@@ -1,0 +1,23 @@
+h1{
+    color: rgba(20, 41, 97, 0.774);
+    font-family: 'PT Serif', serif;
+}
+body{
+    text-align: center;
+}
+.Titulos{
+    color: rgba(201, 137, 18, 0.959);
+    font-family: 'PT Serif', serif;
+
+}
+figcaption{
+    color: rgba(128, 128, 128, 0.795);
+    font-style: oblique;
+}
+.Textos{
+    font-family: 'Jost', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+a:visited{
+    color: rgba(20, 41, 97, 0.774);
+}
